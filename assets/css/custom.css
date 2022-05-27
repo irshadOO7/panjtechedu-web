@@ -1,0 +1,48 @@
+::-webkit-scrollbar {
+    width: 5px;
+  }
+::-webkit-scrollbar-track {
+    box-shadow: inset 0 0 5px #85c226; 
+    border-radius: 10px;
+  }
+   
+  /* Handle */
+  ::-webkit-scrollbar-thumb {
+    background: #ff3115; 
+    border-radius: 10px;
+  }
+  
+  /* Handle on hover */
+  ::-webkit-scrollbar-thumb:hover {
+    background: #b30000; 
+  }
+.fa-heart {
+    font-size: 12px;
+    padding: 4px;
+	color: #e00;
+	animation: beat .25s infinite alternate;
+	transform-origin: center;
+}
+
+/* Heart beat animation */
+@keyframes beat{
+	to { transform: scale(1.4); }
+}
+
+.rs-header .rs-header-top {
+    padding: 0;
+}
+.mainlogo{
+    height: 75px;
+    width: 190px;
+    padding-bottom: 2px;
+}
+.maincontn{
+    padding-top: 22px;
+}
+.sec-black {
+    background: #ffffff;
+}
+.bg7 {
+  background-image: url(../img/banner.jpg);
+}

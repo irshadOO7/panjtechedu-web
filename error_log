@@ -1,0 +1,52 @@
+[27-May-2022 09:50:34 UTC] PHP Warning:  include(function.php): failed to open stream: No such file or directory in /home1/panjtgvj/public_html/live/header.php on line 1
+[27-May-2022 09:50:34 UTC] PHP Warning:  include(function.php): failed to open stream: No such file or directory in /home1/panjtgvj/public_html/live/header.php on line 1
+[27-May-2022 09:50:34 UTC] PHP Warning:  include(): Failed opening 'function.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home1/panjtgvj/public_html/live/header.php on line 1
+[27-May-2022 15:56:38 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function convert_html_to_text() in /home1/panjtgvj/public_html/live/index.php:291
+Stack trace:
+#0 {main}
+  thrown in /home1/panjtgvj/public_html/live/index.php on line 291
+[27-May-2022 15:57:20 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function convert_html_to_text() in /home1/panjtgvj/public_html/live/index.php:291
+Stack trace:
+#0 {main}
+  thrown in /home1/panjtgvj/public_html/live/index.php on line 291
+[27-May-2022 10:53:16 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home1/panjtgvj/public_html/live/index.php on line 392
+[27-May-2022 17:47:45 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function insert_date() in /home1/panjtgvj/public_html/live/contact.php:101
+Stack trace:
+#0 {main}
+  thrown in /home1/panjtgvj/public_html/live/contact.php on line 101
+[27-May-2022 17:48:02 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function insert_date() in /home1/panjtgvj/public_html/live/contact.php:101
+Stack trace:
+#0 {main}
+  thrown in /home1/panjtgvj/public_html/live/contact.php on line 101
+[27-May-2022 17:48:28 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function insert_date() in /home1/panjtgvj/public_html/live/contact.php:101
+Stack trace:
+#0 {main}
+  thrown in /home1/panjtgvj/public_html/live/contact.php on line 101
+[27-May-2022 12:25:18 UTC] PHP Warning:  include(../apprise/temp/function.php): failed to open stream: No such file or directory in /home1/panjtgvj/public_html/header.php on line 1
+[27-May-2022 12:25:18 UTC] PHP Warning:  include(../apprise/temp/function.php): failed to open stream: No such file or directory in /home1/panjtgvj/public_html/header.php on line 1
+[27-May-2022 12:25:18 UTC] PHP Warning:  include(): Failed opening '../apprise/temp/function.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home1/panjtgvj/public_html/header.php on line 1
+[27-May-2022 17:55:18 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function get_all() in /home1/panjtgvj/public_html/index.php:228
+Stack trace:
+#0 {main}
+  thrown in /home1/panjtgvj/public_html/index.php on line 228
+[27-May-2022 12:26:15 UTC] PHP Warning:  include(../apprise/temp/function.php): failed to open stream: No such file or directory in /home1/panjtgvj/public_html/header.php on line 1
+[27-May-2022 12:26:15 UTC] PHP Warning:  include(../apprise/temp/function.php): failed to open stream: No such file or directory in /home1/panjtgvj/public_html/header.php on line 1
+[27-May-2022 12:26:15 UTC] PHP Warning:  include(): Failed opening '../apprise/temp/function.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home1/panjtgvj/public_html/header.php on line 1
+[27-May-2022 17:56:15 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function get_all() in /home1/panjtgvj/public_html/index.php:228
+Stack trace:
+#0 {main}
+  thrown in /home1/panjtgvj/public_html/index.php on line 228
+[27-May-2022 12:26:28 UTC] PHP Warning:  include(../apprise/temp/function.php): failed to open stream: No such file or directory in /home1/panjtgvj/public_html/header.php on line 1
+[27-May-2022 12:26:28 UTC] PHP Warning:  include(../apprise/temp/function.php): failed to open stream: No such file or directory in /home1/panjtgvj/public_html/header.php on line 1
+[27-May-2022 12:26:28 UTC] PHP Warning:  include(): Failed opening '../apprise/temp/function.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home1/panjtgvj/public_html/header.php on line 1
+[27-May-2022 17:56:28 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function get_all() in /home1/panjtgvj/public_html/index.php:228
+Stack trace:
+#0 {main}
+  thrown in /home1/panjtgvj/public_html/index.php on line 228
+[27-May-2022 12:26:48 UTC] PHP Warning:  include(../apprise/temp/function.php): failed to open stream: No such file or directory in /home1/panjtgvj/public_html/header.php on line 1
+[27-May-2022 12:26:48 UTC] PHP Warning:  include(../apprise/temp/function.php): failed to open stream: No such file or directory in /home1/panjtgvj/public_html/header.php on line 1
+[27-May-2022 12:26:48 UTC] PHP Warning:  include(): Failed opening '../apprise/temp/function.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home1/panjtgvj/public_html/header.php on line 1
+[27-May-2022 17:56:48 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function get_all() in /home1/panjtgvj/public_html/index.php:228
+Stack trace:
+#0 {main}
+  thrown in /home1/panjtgvj/public_html/index.php on line 228
